@@ -28,7 +28,7 @@ const Technologies = () => {
   return (
     <>
       <div className=" mt-20 ml-20">
-        <h2 className={styles.sectionHeadText}>Technologies</h2>
+        <h2 className={styles.sectionHeadText}>Technologies & Tools</h2>
       </div>
 
       <div className='mt-20 flex flex-wrap gap-10 ml-10 mr-10 mb-10'>

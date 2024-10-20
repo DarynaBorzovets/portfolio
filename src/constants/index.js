@@ -37,20 +37,44 @@ export const navLinks = [
 
 const tech = [
   {title: "JavaScript"},
-  {title: "Node.js"},
-  {title: "React"},
-  {title: "PostgreSQL"},
   {title: "HTML"},
   {title: "CSS"},
-  {title: "Express"},
-  {title: "RESTful APIs"},
-  {title: "Axios"},
-  {title: "DevTools"},
-  {title: "Git"},
-  {title: "GitHub"},
+  {title: "React"},
   {title: "TailWind"},
   {title: "BootStrap"},
   {title: "MaterialUI"},
+  {title: "ChakraUI"},
+  {title: "Node.js"},
+  {title: "Express"},
+  {title: "PostgreSQL"},
+  {title: "RESTful APIs"},
+  {title: "Git"},
+  {title: "GitHub"},
+  {title: "DevOps"},
+  {title: "Axios"},
+  {title: "Proxy"},
+  {title: "Figma"},
+  {title: "Docker"},
+  {title: "Codacy"},
+  {title: "Jest"},
+  {title: "Postman"},
+  {title: "JIRA"},
+  {title: "Slack"},
+  {title: "Kanban"},
+  {title: "Agile Methodology"},
+  {title: "System Design"},
+  {title: "Microsoft Office"},
+
+
+
+
+
+
+
+
+
+
+
 
 ];
 
@@ -64,63 +88,38 @@ const photo = [
 
 const experiences = [
   {
-    company_name: "Chef Driven Hospitality",
-    title: "Hostess",
+    company_name: "Freelance",
+    title: "Front-End Engineer",
   
 
-    date: "November 2023 - Present time",
+    date: "2022 - Present",
     points: [
-      "Managing reservations",
-      "Meeting and greeting guests",
-      "Accommodating guests",
-      "Team work, helping on the floor",
+      "Conceptualize and launch innovative projects",
+      "Lead collaboration with stakeholders to drive design decisions",
+      "Engineer adaptive UI",
     ],
   },
   {
-    title: "Server",
-    company_name: "Silk Restaurant & Lounge",
+    title: "Junior Front-End Engineer",
+    company_name: "Four Foods Group",
 
-    date: "2022-2023",
+    date: "2021-2022",
     points: [
-      "Serving",
-      "Transacting payments",
-      "Opening, closing shifts",
-      "Team work, helping on the floor",
+      "Leveraged FAANG best practices",
+      "Created and maintained ",
+      "Collaborated with a cross-functional team",
+      "Empowered the team during critical dead-lines",
     ],
   },
   {
     title: "Day Trader",
-    company_name: "Self employed",
+    company_name: "Self Employed",
 
     date: "2018-2021",
     points: [
-      "Stock market analysis",
-      "Ameritrade Thinkorswim",
-      "High-risk Trades, Day Trading",
-      "Pre-market and After-market Trades",
-      "Penny Stocks"
-    ],
-  },
-  {
-    title: "Hostess",
-    company_name: "Sotto 13",
-    date: "2019-2020",
-    points: [
-      "Managing reservations",
-      "Meeting and greeting guests",
-      "Accommodating guests",
-      "Team work, helping on the floor",
-    ],
-  },
-
-  {
-    title: "Business owner",
-    company_name: "Best Chance",
-    date: "2018-2020",
-    points: [
-      "Recruiting, interviewing, and connecting clients with candidates.",
-      "Business management",
-      "Customer service",
+      "Conducted in-depth analysis of the stock market",
+      "Executed high-risk trades and implemented day trading strategies",
+      "Traded penny stocks and performed pre-market and after-market trades"
     ],
   },
 ];
@@ -128,14 +127,14 @@ const experiences = [
 const projects = [
   {
     name: "Magic trick",
-    description:"Creative project focusing on a magic trick. Designed and implemented the user interface using React and Tailwind. Used React Router for navigation between sections without refreshing the page.",
+    description:"Developed a creative project emphasizing user experience and blend illusion with interactive elements.",
    
     image: cardTrick,
     source_code_link: "https://github.com/DarynaBorzovets/magic-trick-my-project",
   },
   {
-    name: "Open-table-improvement",
-    description:"Developed a VIP list exclusively for guests with special tags or notes. During peak hours, these VIP guests will receive exceptional service directly from management, ensuring a smoother and more personalized dining experience.",
+    name: "OpenTable-improvement",
+    description:"Led the development of a VIP list with special tags for guests, ensuring a personalized dining experience.",
    
     image: openTable,
     source_code_link: "https://github.com/DarynaBorzovets/open-table-improvement-my-project",
@@ -143,7 +142,7 @@ const projects = [
   {
     name: "Job-hunting",
     description:
-      "I have created an application that enables people to filter job opportunities by language. Additionally, businesses can effortlessly publish job posts in their native language.",
+      "Designed an application, enabling users to filter job opportunities by posting language, facilitating communication.",
     
     image: jobHunting,
     source_code_link: "https://github.com/DarynaBorzovets/job-hunting-my-project",
