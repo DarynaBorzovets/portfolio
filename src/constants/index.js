@@ -101,7 +101,7 @@ const experiences = [
   },
   {
     title: "Junior Front-End Engineer",
-    company_name: "Four Foods Group",
+    company_name: "5Star Foods Group",
 
     date: "2021-2022",
     points: [
